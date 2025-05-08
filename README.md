@@ -2,7 +2,8 @@
 Exploration of taxi companies in Chicago.
 🚖 Chicago Taxi Companies Analysis
 
-This project explores the operational patterns, trip distribution, and revenue trends among Chicago taxi companies. Using a Jupyter Notebook and Python libraries, the notebook investigates which companies dominate the market, peak travel periods, and other insights derived from taxi trip data.
+This project explores the operational patterns, trip distribution, and revenue trends among Chicago taxi companies. Using a Jupyter Notebook and Python libraries, the notebook investigates which companies dominate the market, peak travel periods, and other insights derived from taxi trip data. Initial information pulled using SQL from [Chicago Weather 2017 Report](https://practicum-content.s3.us-west-1.amazonaws.com/data-analyst-eng/moved_chicago_weather_2017.html)
+
 
 📚 Table of Contents
 About the Project
